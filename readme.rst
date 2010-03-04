@@ -9,7 +9,7 @@ A usable dark theme for the `Limechat IRC Client`_ which builds on the included 
 Obligatory Screenshot
 ---------------------
 
-.. image:: http://cloud.github.com/downloads/idangazit/usably-limechat/Usably-limechat.png
+.. image:: http://cloud.github.com/downloads/idangazit/usably-limechat/Usably-limechat-screenshot.png
 
 
 Features
@@ -27,8 +27,8 @@ Installation
 
 The theme relies on the following two (fantastic & free) fonts:
 
-* Anonymous Pro: http://www.ms-studio.com/FontSales/anonymouspro.html
-* Museo Sans: http://www.josbuivenga.demon.nl/museosans.html
+* `Anonymous Pro <http://www.ms-studio.com/FontSales/anonymouspro.html>`_
+* `Museo Sans <http://www.josbuivenga.demon.nl/museosans.html>`_
 
 To install, drop the ``Usably.css``/``Usably.yml`` files into ``~/Library/Application Support/Limechat/Themes``
 
