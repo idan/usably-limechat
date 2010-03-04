@@ -9,7 +9,7 @@ A usable dark theme for the `Limechat IRC Client`_ which builds on the included 
 Obligatory Screenshot
 ---------------------
 
-.. image:: http://cloud.github.com/downloads/idangazit/usably-limechat/Usably-limechat-screenshot-github.png
+.. image:: http://cloud.github.com/downloads/idangazit/usably-limechat/Usably-limechat-small.png
 
 
 Features
