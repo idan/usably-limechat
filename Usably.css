@@ -21,7 +21,8 @@ body {}
 .line[highlight=true] {background: #333;}
 
 .line[type=action] .sender:before {
-  content: "» ";
+  content: "★ ";
+  font-size: 0.65em;
   white-space: nowrap;
   color: #E3E3E3;
 }
